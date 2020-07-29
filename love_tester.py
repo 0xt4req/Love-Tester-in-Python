@@ -1,4 +1,4 @@
-import random, pyttsx3, playsound
+import random, pyttsx3
 
 
 print("\n")
