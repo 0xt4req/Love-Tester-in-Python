@@ -1,6 +1,6 @@
 # Love-Tester-in-Python
 
-# Version 1.0 Language : Python
+# Version 2.0 Language : Python
 
 # Modules needs to be installed:
     # random (pip install random)
