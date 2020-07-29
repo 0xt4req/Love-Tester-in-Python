@@ -3,9 +3,9 @@
 # Version 1.0 Language : Python
 
 # Modules needs to be installed:
-    # random
-    # pyttsx3
-    # playsound
+    # random (pip install random)
+    # pyttsx3 (pip install pyttsx3)
+    # playsound (pip install playsound)
 
 This is a simple code of Love Testing in Python. 
 
