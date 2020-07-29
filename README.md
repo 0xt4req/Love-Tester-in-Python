@@ -5,7 +5,6 @@
 # Modules needs to be installed:
     # random (pip install random)
     # pyttsx3 (pip install pyttsx3)
-    # playsound (pip install playsound)
 
 This is a simple code of Love Testing in Python. 
 
