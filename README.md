@@ -2,6 +2,11 @@
 
 # Version 1.0 Language : Python
 
+# Modules needs to be installed:
+    # random
+    # pyttsx3
+    # playsound
+
 This is a simple code of Love Testing in Python. 
 
 Hello. I am the Author of this program. I am giving you some information about the usages if this program.
@@ -12,7 +17,7 @@ Enjoy :) Hope your love reach to 100%. Keep Trying.
 # And please always check for update for this tool.
 
 
-# Installation : 
+# Installation in Linux: 
 
     # git clone https://github.com/Nan0mate/Love-Tester-in-Python
     # cd Love-Tester-in-python
