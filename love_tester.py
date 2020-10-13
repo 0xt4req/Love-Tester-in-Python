@@ -9,7 +9,7 @@ print("#    Code Author    : Md. Tareq Ahamed Jony                #")
 print("#    Member OF      : IT CLUB                              #")
 print("#    Position       : Moderator                            #")
 print("#    Team           : IT CLUB                              #")
-print("#    Team Leader    : Ruhul Aaimn                          #")
+print("#    Team Leader    : Ruhul Ami n                          #")
 print("############################################################")
 print("\n")
 
