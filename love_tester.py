@@ -6,10 +6,10 @@ print("############################################################")
 print("#    Code For       : Love Parcentage Tester               #")
 print("#    Code Language  : Python                               #")
 print("#    Code Author    : Md. Tareq Ahamed Jony                #")
-print("#    Member OF      : Knight Squad                         #")
-print("#    Position       : Learner (Knight_VIII)                #")
-print("#    Team           : Knight Squad                         #")
-print("#    Team Leader    : Noman Prodhan                        #")
+print("#    Member OF      : IT CLUB                              #")
+print("#    Position       : Moderator                            #")
+print("#    Team           : IT CLUB                              #")
+print("#    Team Leader    : Ruhul Aaimn                          #")
 print("############################################################")
 print("\n")
 
@@ -54,16 +54,16 @@ def failure():
 def love_tester():
     rand_num = random.randint(50, 99)
     print(f"Your love is {rand_num}%")
-    if rand_num >= 60 and rand_num <= 70:
+    if 60<= rand_num <= 70:
         print("Your love is Growing!")
         in_61_to_70()
-    elif rand_num >= 71 and rand_num <= 80:
+    elif 71 <= rand_num <=80:
         print("Your love is in the Air!")
         in_71_to_80()
-    elif rand_num >= 81 and rand_num <= 90:
+    elif 78 <= rand_num <=90:
         print("You are Love Birds!")
         in_81_to_90()
-    elif rand_num >= 91 and rand_num < 100:
+    elif 91 <= rand_num <=100:
         print("You guys are made for each other!")
         in_91_to_100()
     else:
